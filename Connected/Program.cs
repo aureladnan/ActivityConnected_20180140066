@@ -34,5 +34,4 @@ namespace Connected
             return "data source = Tampan; database=ProdiTI; MultipleActiveResultSets=True; User ID=sa; Password=Apasaja12";
         }
     }
-    }
 }
